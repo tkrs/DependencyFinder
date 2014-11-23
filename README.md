@@ -1,8 +1,6 @@
 DependencyFinder
 ================
 
-Overview
-
 ## Description
 Find a classes from maven dependencies.
 
