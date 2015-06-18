@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/tkrs/DependencyFinder.png?label=ready&title=Ready)](https://waffle.io/tkrs/DependencyFinder)
 DependencyFinder
 ================
 
